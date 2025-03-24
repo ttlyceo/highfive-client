@@ -1,0 +1,361 @@
+﻿id	name	str	icon
+1030001	自由傳送書	a,	icon.bookmark_book_i00
+1030002	自由傳送旗	a,	BranchSys.icon.br_flag_of_bookmark_i00
+1030003	自由傳送卷軸 10張/組	a,	icon.etc_pi_gift_box_i00
+1030004	狩獵幫手交換券	a,	icon.etc_ticket_red_i00
+1030005	高級狩獵幫手交換券	a,	icon.etc_ticket_red_i00
+1030006	追加入場券-欲界(深淵之廳)	a,	icon.ticket_i00
+1030007	追加入場券-欲界(深淵迷宮)	a,	icon.ticket_i00
+1030008	活力維持藥水	a,	BranchSys.icon.br_vitality_potion_i00
+1030009	活力充能飲料	a,	BranchSys.icon.br_vitality_potion_i01
+1030010	SP古文 30% 5小時/組	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030011	羽毛古文 24小時/組	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030012	祝福的羽毛	a,	icon.blessed_feather_i00
+1030013	戰士卷軸冊	a,	br_cashtex.item.br_cash_fighter_buff_set_i00
+1030014	法師卷軸冊	a,	br_cashtex.item.br_cash_mage_buff_set_i00
+1030015	瑪瑙獸變身卷軸	a,	BranchSys.icon.br_scroll_of_transformation_i00
+1030016	死亡之刃變身卷軸	a,	BranchSys.icon.br_scroll_of_transformation_i00
+1030017	門徒聖杯變身卷軸	a,	BranchSys.icon.br_scroll_of_transformation_i00
+1030018	獨角獸變身卷軸	a,	BranchSys.icon.br_scroll_of_transformation_i00
+1030019	莉莉恩騎士變身卷軸	a,	BranchSys.icon.br_scroll_of_transformation_i00
+1030020	高崙守護者變身卷軸	a,	BranchSys.icon.br_scroll_of_transformation_i00
+1030021	煉獄龍獸變身卷軸	a,	BranchSys.icon.br_scroll_of_transformation_i00
+1030022	暴烈龍變身卷軸	a,	BranchSys.icon.br_scroll_of_transformation_i00
+1030023	皇后貓帽 30日/組	a,	icon.etc_pi_gift_box_i00
+1030024	國王貓帽 30日/組	a,	icon.etc_pi_gift_box_i00
+1030025	眼怪帽 30日/組	a,	icon.etc_pi_gift_box_i01
+1030026	棕熊帽 30日/組	a,	icon.etc_pi_gift_box_i01
+1030027	蘑菇帽 30日/組	a,	icon.etc_pi_gift_box_i01
+1030028	愛心壺精 30日/組	a,	icon.etc_pi_gift_box_i00
+1030029	元寶牛壺精 7日/組	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030030	吉利牛壺精 7日/組	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030031	金面媽祖壺精 7日/組	u,復活\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030032	彩色稱號	a,	icon.color_name_i00
+1030033	結晶型古文 3級 10小時/組	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030034	SP古文 50% 5小時/組	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030035	小天使之翼 7日/組	u,魔力再生\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030036	小妖精觸角 7日/組	u,還擊\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030037	白羽黃金假面 7日/組	u,魔力再生\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030038	爆炸頭組-金色	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030039	爆炸頭組-粉紅色	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030040	爆炸頭組	a,	icon.etc_pi_gift_box_i00
+1030041	雪人變身魔杖 30日/組	a,	icon.etc_pi_gift_box_i00
+1030042	蒸汽甲蟲騎乘手鐲組	a,	icon.etc_pi_gift_box_i00
+1030043	淡紫鬃馬手鐲組	a,	icon.etc_pi_gift_box_i00
+1030044	緞帶髮飾組	a,	icon.etc_pi_gift_box_i00
+1030045	粗框眼鏡組	a,	icon.etc_pi_gift_box_i00
+1030046	骷髏帽組	a,	icon.etc_pi_gift_box_i00
+1030047	戰鬥貓帽組	a,	icon.etc_pi_gift_box_i00
+1030048	速度激發卷軸	a,	br_cashtex.item.br_cash_scroll_of_haste_i00
+1030049	魔力催化卷軸	a,	br_cashtex.item.br_cash_scroll_of_empower_i00
+1030050	靈活思緒卷軸	a,	br_cashtex.item.br_cash_scroll_of_greater_acumen_i00
+1030051	吸血怒擊卷軸	a,	br_cashtex.item.br_cash_scroll_of_vampiric_rage_i00
+1030052	澄澈思緒卷軸	a,	br_cashtex.item.br_cash_scroll_of_clarity_i00
+1030053	自由傳送旗 5張/組	a,	icon.etc_pi_gift_box_i00
+1030054	自由傳送卷軸 30張/組	a,	icon.etc_pi_gift_box_i01
+1030055	狩獵幫手交換券-5小時 10張	a,	icon.etc_ticket_red_i00
+1030056	高級狩獵幫手交換券-5小時 10張	a,	icon.etc_ticket_red_i00
+1030057	追加入場券-欲界(深淵之廳) 50張	a,	icon.ticket_i00
+1030058	追加入場券-欲界(深淵迷宮) 50張	a,	icon.ticket_i00
+1030059	活力維持藥水 11個/組	a,	icon.etc_pi_gift_box_i00
+1030060	活力充能飲料 20個/組	a,	icon.etc_potion_of_energy_i00
+1030061	戰士卷軸冊 30張	a,	br_cashtex.item.br_cash_fighter_buff_set_i00
+1030062	法師卷軸冊 30張	a,	br_cashtex.item.br_cash_mage_buff_set_i00
+1030063	祝福的羽毛 3張/組	a,	icon.etc_pi_gift_box_i01
+1030064	招魂杖 7日/組	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030065	回魂帽 7日/組	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030066	不死蒸汽甲蟲搭乘組	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030067	暗影骷髏帽組	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030068	制服帽	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030069	拿破崙帽	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030070	跳跳眼	a,	icon.accessory_beetle_eye_i00
+1030071	玩偶熊壺精 7日/組	u,復活\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030072	黑色招財貓壺精 7日/組	u,返回\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030073	白色招財貓壺精 7日/組	u,復活\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030074	活力維持組	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030075	活力充能組	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030076	萬聖夜帽子	a,	icon.accessory_halloween_cap_i00
+1030077	萬聖夜南瓜變身魔杖 30日/組	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030078	萬聖夜稻草人變身魔杖 30日/組	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030079	萬聖夜銀色貓帽 30日/組	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030080	銀色貓帽組	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030081	黃金傑克南瓜面具 7日/組	u,黃金傑克南瓜的權能-在10分鐘內增加隊伍成員的HP最大值40%、MP最大值40%、CP最大值40%、物理防禦力30%、魔法防禦力30%、移動速度30%。\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030082	白耳畫眉壺精	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030083	冠羽畫眉壺精	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030084	特大時空之愛組合包	a,	icon.etc_pi_gift_box_i04
+1030085	眼怪帽 30日/組	a,	icon.etc_pi_gift_box_i01
+1030086	蘑菇帽 30日/組	a,	icon.etc_pi_gift_box_i01
+1030087	元寶牛壺精 7日/組	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030088	吉利牛壺精 7日/組	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030089	小天使之翼 7日/組	u,魔力再生\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030090	白羽黃金假面 7日/組	u,魔力再生\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030091	塑膠假髮 7日/組	u,祝福返回\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030092	塑膠假髮組	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030093	平安夜A級禮品組	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030094	平安夜S級禮品組	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030095	麋鹿的禮物	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030096	元氣暴走組	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030097	金喜開運箱	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030098	永保安康組	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030099	衝等得來速	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030100	閃光護目鏡組	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030101	新生茁壯配方	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030102	招財進寶禮盒	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030103	滿漢全席套餐	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030104	財神活力旺	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030105	爆竹六星彩	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030106	步步高升禮盒	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030107	鴻運當頭禮盒	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030108	花之嫁衣	u,柔情萬千的唯美嫁紗，搭配著浪漫的花冠，成為今生最美的新娘。\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030109	白羽燕尾服	u,玉樹臨風的燕尾服，搭配著帥氣的白羽黃金假面，成為最奢華有型的新郎。\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030110	結婚賀禮	u,在婚宴中可贈予親友的結婚賀禮，除了有象徵深厚情誼的友情手鐲之外，還贈送了濃郁巧克力味道的活力喜餅~~\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030111	進階型玫瑰精靈交換券	u,可向活動NPC兌換限時5小時的玫瑰項鍊，用來召喚造型細緻可愛的玫瑰精靈，它擁有高級狩獵幫手相似的輔助實用功能。\0	icon.etc_ticket_red_i00
+1030112	刺客斗笠 7日/組	u,俠客造型的斗笠頭飾。\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030113	經驗值古文強效組合	u,只要使用此道具，狩獵所獲得的經驗值可增加50%。買5送1的超低價組合包，輔助玩家更輕鬆升等。\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030114	不死狩獵禮盒	u,狩獵季節的超強組合，除了有超強的狩獵幫手輔助狩獵，還可自體復活的不死力量。內含3張高級狩獵幫手交換劵，2張祝福的羽毛以及2個活力維持藥水的超值組合。\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030115	薄暮皇室王冠	u,貴氣逼人的金屬光澤，打造王者風範的王冠頭飾。適合搭配薄暮套裝，使用期限30日。\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030116	薄暮皇室頭箍	u,中間鑲有紅寶石的皇室頭箍，讓你擁有傲視群雄的王者姿態。適合搭配薄暮套裝，使用期限30日。\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030117	貴族角冠	u,戴上霸氣的角冠造型頭飾，更強化戰士的英勇姿態。適合搭配薄暮套裝，使用期限30日。\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030118	華飾良駒組合	u,永久的淡紫鬃馬坐騎、搭配具有不滅的冒險者靈魂之力7日的女武神帽讓你威風十足。\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030119	武聖神威組合	u,怒氣爆發的關公壺精搭配女武神帽的不滅的冒險者靈魂之力，絕對是練功最佳的組合。\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030120	結義友情組合	u,永久的關公壺精以及結義用的友情手鐲，珍藏最珍貴的情義組合。\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030121	女武神帽組	u,雙鬢永有潔白羽冠的女武神帽，無論是男性角色或女性角色戴上後，都擁有玉樹臨風的威武氣息，是一款非珍藏不可的頭飾。\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030122	經驗值古文強效組合	u,只要使用此道具，狩獵所獲得的經驗值可增加50%。買5送1的超低價組合包，輔助玩家更輕鬆升等。\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030123	愛心活力套餐	u,具有活力功能的可愛愛心壺精搭配著可以輔助技能的滿漢全席套餐,絕對是你練功的最好選擇\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030124	A級強化輔助石組	u,武器及防具用的A級強化石組,可幫助你在強化道具時更順利\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030125	S級強化輔助石組	u,武器及防具用的S級強化石組,可幫助你在強化道具時更順利\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030126	薄暮皇室王冠組	u,貴氣逼人的金屬光澤，打造王者風範的王冠頭飾。適合搭配薄暮套裝。\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030127	薄暮皇室頭箍組	u,中間鑲有紅寶石的皇室頭箍，讓你擁有傲視群雄的王者姿態。適合搭配薄暮套裝。\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030128	火焰戰鬥組	u,碧紅色如火焰般的徽章印在額頭上，彷彿閃動著如熊熊烈火般的熱血力量。擁有活力飲料及狩獵幫手的輔助，戰鬥更有力。\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030129	暴風戰鬥組	u,綠葉及金花交錯所編織成的徽章印在額頭上，彷彿暴風般的迴旋著四周的氣流，產生強大的力量。擁有活力飲料及狩獵幫手的輔助，可使戰鬥更有力。\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030130	黑暗戰鬥組	u,擁有一雙蝙蝠的羽翼，像惡魔圖騰印在額頭上，掌控著所有黑暗的力量。擁有活力飲料及狩獵幫手的輔助，可使戰鬥更有力。\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030131	活力戰鬥熊熊組	u,可愛的玩偶熊壺精，讓你擁有超元氣的活力，加上經驗值、SP、結晶型古文，讓你戰鬥不費力。\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030132	夏夜祝福火花組	u,熱情的仲夏，晚間天空佈滿了繽紛的煙火，更能點綴出燦爛的夜空。擁有輔助技能的煙火，更能守護在夏夜練功的你。\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030133	夏夜元氣星光組	u,每天星星的夏夜，是不是會讓人眼睛一亮呢? 每顆充滿活力的星星，在夜空中不斷對你眨眼睛，是不是讓你想要一口氣收藏他們??\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030134	夏夜輕涼西瓜組	u,可愛的西瓜帽，擁有冰涼西瓜的能力，戴上後能讓一整個炎夏瞬間冰凍喔。還有讓你身體輕飄飄的羽毛古文，一起讓你輕鬆度過炎炎夏日。\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030135	西瓜帽	u,可愛西瓜造型的帽子，是夏夜最不可缺少的頭飾組合。\0	BranchSys.icon.br_watermelon_cap_a_i00
+1030136	戀人未滿組	u,七夕情人節還是單身的曠男怨女們，快點一支脫離單身的祈願燭吧!祈願蠟燭點燃後，捧著一朵朵的鮮花，告白機率將會大幅提升喲!\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030137	貼心保護組	u,擁有金牛之力的織女壺精，將賜予超強輔助能力；伴隨著水晶傳來的婚禮之歌，讓你成為最佳貼身保護的完美情人。\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030138	笛音傳情組	u,擁有笛音技能的織女壺精，將所有的法力透過笛音發揮最大的輔助功效；伴隨著水晶傳來的愛情之歌，將你的心意傳達給最深愛的戀人。\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030139	織女壺精	u,可愛的織女壺精，騎著金牛尋找牛郎的蹤跡。使用聰明伶俐技能時，還會不小心從牛背上摔下、哭泣，模樣十分可愛動人。\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030140	黃金勇者組	u,純金打造的骷髏頭飾，搭配擁有塑膠充氣外型的黃色加油棒；可在攻城戰時，做為隊伍的標誌，為自己的隊伍喝采。還有活力飲料可以讓自己保持最佳的備戰狀態。\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030141	白銀勇者組	u,白銀打造的骷髏頭飾，搭配擁有塑膠充氣外型的白色加油棒；可在攻城戰時，做為隊伍的標誌，為自己的隊伍喝采。還有活力飲料可以讓自己保持最佳的備戰狀態。\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030142	A級強化輔助石組	u,武器及防具用的A級強化石組,可幫助你在強化道具時更順利\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030143	S級強化輔助石組	u,武器及防具用的S級強化石組,可幫助你在強化道具時更順利\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030144	憤怒精靈變裝組	u,萬聖夜＂搞鬼＂變裝派對登場囉！趕快戴上憤怒精靈面具，攜帶賜予活力的蝙蝠群；或是直接變身南瓜怪，保證你會成為萬聖夜最醒目的搞鬼達人！\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030145	X235行星變裝組	u,萬聖夜＂搞鬼＂變裝派對登場囉！趕快戴上X235行星面具，攜帶賜予活力的蝙蝠群；或是直接變身南瓜怪，保證你會成為萬聖夜最醒目的搞鬼達人！\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030146	驚聲尖叫變裝組	u,萬聖夜＂搞鬼＂變裝派對登場囉！趕快戴上驚聲尖叫面具，攜帶賜予活力的蝙蝠群；或是直接變身南瓜怪，保證你會成為萬聖夜最醒目的搞鬼達人！\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030147	不朽骸骨變裝組	u,萬聖夜＂搞鬼＂變裝派對登場囉！趕快戴上不朽骸骨面具，攜帶賜予活力的蝙蝠群；或是直接變身稻草人，保證你會成為萬聖夜最醒目的搞鬼達人！\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030148	科學怪人變裝組	u,萬聖夜＂搞鬼＂變裝派對登場囉！趕快戴上科學怪人面具，攜帶賜予活力的蝙蝠群；或是直接變身稻草人，保證你會成為萬聖夜最醒目的搞鬼達人！\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030149	花仙子精靈壺精組	u,花卉博覽會裡浪漫的花仙子壺精降臨天堂Ⅱ，陪伴大家一起歡度這個百花齊放的季節。\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030150	樹精靈派對組	u,花卉博覽會的派對來囉!樹精靈要陪伴大家，讓生活中增添更多的綠意，還準備了各式雞尾酒，邀請大家一起享用。\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030151	松柏長青組	u,充滿幸運的四葉草，可以隨機獲得不同天數的活力頭飾。還可使用門松變身魔杖，變成可愛討喜的門松喔!\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030152	開花結果幸運組	u,盛大的花卉博覽會已經展開，處處花海及果樹讓整個世界顯得更繽紛熱鬧，果樹女神也將把祝福帶給遊戲內的每個玩家，並給予活力的巧克力餅乾，賜下喜悅的贈禮。\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030153	麋鹿的禮物	u,充滿濃郁聖誕氣息的麋鹿項鍊，為這寒冷的季節捎來了十足的活力。五彩繽紛的星星糖，閃爍著元氣之光，點綴星空下，每個擁有他們的亞丁子民。\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030154	元氣聖誕奇蹟組	u,除了擁有活力充滿的蛋糕之外，還有一定的機會，讓活力滿滿的麋鹿壺精陪伴著你，渡過元氣聖誕。\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030155	聖誕老人的禮物組	u,聖誕老人送禮物來囉!喜悅、趣味、幸運的禮物要分送給大家，試試運氣，看可以獲得什麼樣的聖誕禮物吧。\0	BranchSys.icon.br_xmas_present_i00
+1030156	國旗帽組	u,歡慶建國100年，趕快戴上台灣專屬的國旗帽，一起開心跨年。\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030157	元旦慶典禮盒	u,在五彩繽紛的煙火下，戴著國旗帽、騎著威風的淡紫鬃馬，一起在元旦慶典中遊行吧!\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030158	金喜守護者壺精組	u,歡慶天堂II七週年，就讓可愛的金喜守護者壺精，陪伴你一同練功吧!\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030159	圓球斯諾壺精組	u,可愛討喜的圓球斯諾，就讓他陪伴你一同開心練功吧!\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030160	高蹺斯諾壺精組	u,踩著高蹺的斯諾壺精，可愛模樣讓你天天有好心情喔!\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030161	闇夜祝典斗篷組	u,天堂II七週年慶正式展開，快披上帥氣的闇夜之黑祝典斗篷，搭配粉紅紙製尖帽面具，與好友一同參加天堂II慶生派對吧!\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030162	珍珠祝典斗篷組	u,想成為天堂II慶生派對中最閃耀的一顆星嗎?穿上純白帥氣的祝典斗篷-珍珠之白，您將成為最受矚目的焦點!\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030163	圓球斯諾派對組	u,圓球斯諾邀請天堂II的子民們，戴著派對尖帽，一同參與天堂II的生日派對\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030164	高蹺斯諾派對組	u,俏皮的高蹺斯諾，準備了繽紛的綠色派對尖帽，邀您一起趴踢趴踢^^\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030165	好運年菜套餐	u,豐富多樣的開運年菜，每道料理中都蘊含了神秘的力量，讓您練功有如神助!\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030166	爆竹迎新禮盒	u,爆竹一聲除舊歲，桃符萬戶更新春!過年期間總是少不了的鞭炮組，讓您諸事順心一整年!\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030167	歡喜活力財神禮盒	u,新的一年又來到囉!喜氣的財神爺將帶給你滿滿的活力，同時也準備了經驗古文，就是要讓你輕鬆練功，新年贏在起跑點^^\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030168	兔年迎財神禮盒	u,賀新年，祝新年，兔年歡喜迎財神!就讓財神爺常伴身旁，保證一整年好運旺旺來喔!\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030169	進階型玫瑰精靈交換券	u,又到了一年一度的情人月，讓外型更加華麗，且有強大輔助功能的進階型玫瑰精靈陪你一起甜蜜練功吧!\0	icon.etc_ticket_red_i00
+1030170	濃情巧克力禮盒	u,內含濃情密意的巧克力餅乾以及使用玫瑰精靈特殊技能必備的玫瑰精華組，讓你甜蜜練功，活力滿滿喔!\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030171	浪漫婚宴組	u,婚禮壓縮包內含蜜月套票以及大型結婚蛋糕，讓您享有最特別、最浪漫的婚宴。\0	BranchSys2.Icon.br_wedding_box_i00
+1030172	情定終生組	u,玫瑰精靈為大家見證最美麗的愛情，帶著婚戒以及最美麗的婚禮花束，向情人訂下終生的承諾吧!\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030173	夢幻婚紗組	u,穿上最美的禮服，戴上幸福的頭紗，今天妳就是最美麗的新娘~\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030174	爆炸頭組	a,	icon.etc_pi_gift_box_i00
+1030175	爆炸頭組	a,	icon.etc_pi_gift_box_i00
+1030176	粗框眼鏡組	a,	icon.etc_pi_gift_box_i00
+1030177	粗框眼鏡組	a,	icon.etc_pi_gift_box_i00
+1030178	女武神帽組	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030179	女武神帽組	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030180	古魯丁手工餅乾組	u,內裝5個古魯丁手工餅乾的禮盒。餅乾功能：在60分鐘內提升物理攻擊力10%。\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030181	狄恩手工餅乾組	u,內裝5個狄恩手工餅乾的禮盒。餅乾功能：在60分鐘內增加物理防禦力15%。\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030182	奇岩精緻餅乾組	u,內裝3個奇岩精緻餅乾的禮盒。餅乾功能：在60分鐘內增加對致命攻擊的物理防禦力30%，但是當目標接受一定量以上的傷害時，將會在8秒內增加近身物理攻擊的致命傷害。\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030183	魯因精緻餅乾組	u,內裝3個魯因精緻餅乾的禮盒。餅乾功能：在60分鐘內提升所受的回復術效能85。\0	BranchSys.icon.br_four_leaf_clover_box_i00
+1030184	魔法眼鏡30日/組	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030185	MP恢復藥水組	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030186	端午飄香組	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030187	粽香團聚組	a,	BranchSys2.icon.br_taiwan_riceball_c_i00
+1030188	龍舟帽組	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030189	龍舟帽 7日/組	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030190	粽子-S級	a,	BranchSys2.icon.br_taiwan_riceball_c_i00
+1030191	粽子-A級	a,	BranchSys2.icon.br_taiwan_riceball_b_i00
+1030192	粽子-B級	a,	BranchSys2.icon.br_taiwan_riceball_a_i00
+1030193	沃夫襯衫組	a,	icon.etc_pi_gift_box_i04
+1030194	沃夫襯衫強化卷軸	a,	BranchSys2.icon.etc_scroll_of_enchant_shirt_i01
+1030195	祝福的沃夫襯衫強化卷軸	a,	BranchSys2.icon.etc_scroll_of_enchant_shirt_i00
+1030196	噴射戰車騎乘手鐲組	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030197	美味起司帽組	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030198	美味起司帽 7日/組	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030199	甜蜜起司帽組	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030200	甜蜜起司帽 7日/組	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030201	OX 魔杖 7日/組	a,	icon.etc_pi_gift_box_i02
+1030202	剪刀石頭布魔杖 7日/組	a,	icon.etc_pi_gift_box_i02
+1030203	織女壺精 24小時/組(金牛之力)	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030204	織女壺精 3日/組(金牛之力)	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030205	織女壺精 24小時/組(笛音)	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030206	織女壺精 3日/組(笛音)	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030207	織女壺精組	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030208	愛心壺精 7日/組	a,	icon.etc_pi_gift_box_i02
+1030209	豬豬塔糖	a,	icon.etc_pig_candy_i00
+1030210	自由傳送書	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030211	自由傳送旗	a,	BranchSys.icon.br_flag_of_bookmark_i00
+1030212	自由傳送卷軸10張	a,	icon.etc_pi_gift_box_i02
+1030213	追加入場券-欲界(深淵之廳)	a,	icon.ticket_i00
+1030214	追加入場卷-欲界(深淵迷宮)	a,	icon.ticket_i00
+1030215	活力充能飲料	a,	icon.etc_potion_of_energy_i00
+1030216	30分鐘活力維持藥水	a,	BranchSys.icon.br_vitality_potion_i00
+1030217	新鮮牛奶	a,	icon.etc_fresh_milk_i00
+1030218	超級健康果汁(HP)(9瓶)	a,	BranchSys2.icon.etc_health_juice_i00
+1030219	超級健康果汁(CP)(10瓶)	a,	BranchSys2.icon.etc_health_juice_i01
+1030220	新生茁壯配方	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030221	魯因精緻餅乾組	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030222	古魯丁手工餅乾組	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030223	狄恩手工餅乾組	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030224	經驗值古文 30% 5小時/組	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030225	SP古文 50% 5小時/組	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030226	武器用強化輔助石-S級組	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030227	防具用強化輔助石-S級組	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030228	武器用強化輔助石-A級組	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030229	防具用強化輔助石-A級組	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030230	結晶型古文 3級-5小時/組	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030231	羽毛古文 24小時/組	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030232	靈活思緒卷軸 3張	a,	br_cashtex.item.br_cash_scroll_of_greater_acumen_i00
+1030233	吸血怒擊卷軸 3張	a,	br_cashtex.item.br_cash_scroll_of_vampiric_rage_i00
+1030234	速度激發卷軸 3張	a,	br_cashtex.item.br_cash_scroll_of_haste_i00
+1030235	澄澈思緒卷軸 3張	a,	br_cashtex.item.br_cash_scroll_of_clarity_i00
+1030236	魔力催化卷軸 3張	a,	br_cashtex.item.br_cash_scroll_of_empower_i00
+1030237	煉獄龍獸變身卷軸	a,	icon.etc_trans_4f_s_b_01
+1030238	獨角獸變身卷軸	a,	icon.etc_trans_4f_s_b_01
+1030239	莉莉恩騎士變身卷軸	a,	icon.etc_trans_4f_s_b_01
+1030240	死亡之刃變身卷軸	a,	icon.etc_trans_4f_s_b_01
+1030241	高崙守護者變身卷軸	a,	icon.etc_trans_4f_s_b_01
+1030242	暴烈龍變身卷軸	a,	icon.etc_trans_4f_s_b_01
+1030243	門徒聖杯變身卷軸	a,	icon.etc_trans_4f_s_b_01
+1030244	超強力瞬間體力治癒藥水組	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030245	瞬間回復體力藥水	a,	icon.etc_potion_red_i00
+1030246	瞬間回復魔力藥水	a,	icon.etc_potion_purpel_i00
+1030247	瞬間回復魔力藥水	a,	icon.etc_potion_purpel_i00
+1030248	祝福的返回卷軸	a,	icon.etc_scroll_of_return_i01
+1030249	祝福的復活卷軸	a,	icon.etc_scroll_of_resurrection_i01
+1030250	香甜水果雞尾酒	a,	icon.etc_fruit_cocktail_i00
+1030251	爽口水果雞尾酒	a,	icon.etc_fruit_cocktail_i01
+1030252	學院制服A	a,	Schoollook_As.Br_schoollook
+1030253	學院制服B	a,	Schoollook_As.Br_schoollook
+1030254	聖誕禮服	a,	Branchsys3.icon1.armor_ev_santas_clothes
+1030255	泳裝派對A	a,	BranchSys3.icon1.g_co_swimsuit_event_01
+1030256	泳裝派對B	a,	BranchSys3.icon1.g_co_swimsuit_event_02
+1030257	泳裝派對C	a,	BranchSys3.icon1.g_co_swimsuit_event_03
+1030258	泳裝派對D	a,	BranchSys3.icon1.g_co_military_undwrwear
+1030259	泳裝派對E	a,	BranchSys3.icon1.g_co_premium_underwear
+1030260	泳裝派對F	a,	BranchSys3.icon1.g_co_sexy_underwear
+1030261	泳裝派對G	a,	BranchSys3.icon1.g_co_sf_underwear_01
+1030262	泳裝派對H	a,	BranchSys3.icon1.g_co_maid_underwear_f01
+1030263	經驗加倍藥水20%	a,	icon.etc_earth_potion_i00
+1030264	經驗加倍藥水50%	a,	icon.etc_earth_potion_i00
+1030265	武器用強化輔助石-D級	a,	icon.ench_wp_stone_i00
+1030266	武器用強化輔助石-C級	a,	icon.ench_wp_stone_i01
+1030267	武器用強化輔助石-B級	a,	icon.ench_wp_stone_i02
+1030268	武器用強化輔助石-A級	a,	icon.ench_wp_stone_i03
+1030269	武器用強化輔助石-S級	a,	icon.ench_wp_stone_i04
+1030270	防具用強化輔助石-D級	a,	icon.ench_am_stone_i00
+1030271	防具用強化輔助石-C級	a,	icon.ench_am_stone_i01
+1030272	防具用強化輔助石-B級	a,	icon.ench_am_stone_i02
+1030273	防具用強化輔助石-A級	a,	icon.ench_am_stone_i03
+1030274	防具用強化輔助石-S級	a,	icon.ench_am_stone_i04
+1030275	30分鐘活力維持藥水	a,	icon.etc_lesser_potion_blue_i00
+1030276	活力充能藥水 15個/組	a,	icon.etc_pi_gift_box_i00
+1030277	武器強化卷軸組-D級	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030278	武器強化卷軸組-C級	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030279	武器強化卷軸組-B級	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030280	武器強化卷軸組-A級	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030281	武器強化卷軸組-S級	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030282	防具強化卷軸組-D級	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030283	防具強化卷軸組-C級	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030284	防具強化卷軸組-B級	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030285	防具強化卷軸組-A級	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030286	防具強化卷軸組-S級	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030287	捕魚證	a,	icon.etc_ticket_i00
+1030288	貴族憑證	a,	icon.etc_nutrients_of_cupid_i00
+1030289	經驗值古文 50% 5小時/組	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030290	破滅武器強化卷軸-S級	a,	icon.etc_blessed_scrl_of_ench_wp_s_i05
+1030291	破滅防具強化卷軸-S級	a,	icon.etc_blessed_scrl_of_ench_am_s_i05
+1030292	破滅武器強化卷軸-A級    	a,	icon.etc_blessed_scrl_of_ench_wp_a_i04
+1030293	破滅防具強化卷軸-A級    	a,	icon.etc_blessed_scrl_of_ench_am_a_i04
+1030294	破滅武器強化卷軸-B級   	a,	icon.etc_blessed_scrl_of_ench_wp_b_i03
+1030295	破滅防具強化卷軸-B級    	a,	icon.etc_blessed_scrl_of_ench_am_b_i03
+1030296	破滅武器強化卷軸-C級    	a,	icon.etc_blessed_scrl_of_ench_wp_c_i02
+1030297	破滅防具強化卷軸-C級    	a,	icon.etc_blessed_scrl_of_ench_am_c_i02
+1030298	破滅武器強化卷軸-D級    	a,	icon.etc_blessed_scrl_of_ench_wp_d_i01
+1030299	破滅防具強化卷軸-D級    	a,	icon.etc_blessed_scrl_of_ench_am_d_i01
+1030300	祝福的沃夫襯衫強化卷軸6張組	a,	BranchSys2.icon.etc_scroll_of_enchant_shirt_i00
+1030301	祝福的沃夫襯衫強化卷軸14張組	a,	BranchSys2.icon.etc_scroll_of_enchant_shirt_i00
+1030302	安塔瑞斯耳環(商城)	a,	icon.accessory_earring_of_antaras_i00
+1030303	巴溫戒指(商城)	a,	icon.accessory_ring_of_baium_i00
+1030304	巨蟻女王戒指(商城)	a,	icon.accessory_ring_of_queen_ant_i00
+1030305	札肯耳環(商城)	a,	icon.accessory_earring_of_zaken_i00
+1030306	血腥祝典斗篷組	a,	BranchSys.icon.br_four_leaf_clover_box_i00
+1030307	整形藥水-A	u,改變成臉型A的美麗藥水，男女共用的物品。\0	icon.etc_lesser_potion_purple_i00
+1030308	整形藥水-B	u,改變成臉型B的美麗藥水，男女共用的物品。\0	icon.etc_lesser_potion_purple_i00
+1030309	整形藥水-C	u,改變成臉型C的美麗藥水，男女共用的物品。\0	icon.etc_lesser_potion_purple_i00
+1030310	染髮藥水-A	u,改變成髮色A的美麗藥水，男女共用的物品。\0	icon.etc_lesser_potion_scarlet_i00
+1030311	染髮藥水-B	u,改變成髮色B的美麗藥水，男女共用的物品。\0	icon.etc_lesser_potion_scarlet_i00
+1030312	染髮藥水-C	u,改變成髮色C的美麗藥水，男女共用的物品。\0	icon.etc_lesser_potion_scarlet_i00
+1030313	染髮藥水-D	u,改變成髮色D的美麗藥水，男女共用的物品。闇天使無法使用。\0	icon.etc_lesser_potion_scarlet_i00
+1030314	造型藥水-A	u,改變成髮型A的美麗藥水，男女共用的物品。\0	icon.etc_lesser_potion_green_i00
+1030315	造型藥水-B	u,改變成髮型B的美麗藥水，男女共用的物品。\0	icon.etc_lesser_potion_green_i00
+1030316	造型藥水-C	u,改變成髮型C的美麗藥水，男女共用的物品。\0	icon.etc_lesser_potion_green_i00
+1030317	造型藥水-D	u,改變成髮型D的美麗藥水，男女共用的物品。\0	icon.etc_lesser_potion_green_i00
+1030318	造型藥水-E	u,改變成髮型E的美麗藥水，男女共用的物品。\0	icon.etc_lesser_potion_green_i00
+1030319	造型藥水-F	u,改變成髮型F的美麗藥水，男女共用的物品。\0	icon.etc_lesser_potion_green_i00
+1030320	造型藥水-G	u,改變成髮型G的美麗藥水，男女共用的物品。\0	icon.etc_lesser_potion_green_i00
+1030321	造型藥水-H	u,改變成髮型H的美麗藥水，女性專用的物品。\0	icon.etc_lesser_potion_green_i00
+1030322	造型藥水-I	u,改變成髮型I的美麗藥水，女性專用的物品。\0	icon.etc_lesser_potion_green_i00
+1030323	造型藥水-J	u,改變成髮型J的美麗藥水，闇天使女性專用的物品。\0	icon.etc_lesser_potion_green_i00
+1030324	整形藥水-D	u,改變成臉型D的美麗藥水，男女共用的物品。\0	icon.etc_lesser_potion_purple_i00
+1030325	整形藥水-E	u,改變成臉型E的美麗藥水，男女共用的物品。\0	icon.etc_lesser_potion_purple_i00
+1030326	新羅之珠-B	u,拿去交給維他命管理者的話，就能將B級一般道具交換成稀有道具。\0	icon.etc_warding_orb_blue_i00
+1030327	新羅之珠-A	u,拿去交給維他命管理者的話，就能將A級一般道具交換成稀有道具。\0	icon.etc_warding_orb_green_i00
+1030328	新羅之珠-S	u,拿去交給維他命管理者的話，就能將S級一般道具交換成稀有道具。\0	icon.etc_warding_orb_red_i00
+1030329	新羅之珠-S80	u,拿去交給維他命管理者的話，就能將S80級一般道具交換成稀有道具。\0	icon.etc_warding_orb_black_i00
+1030330	新羅之珠-S84	u,拿去交給維他命管理者的話，就能將S84級一般道具交換成稀有道具。\0	BranchSys2.icon.etc_warding_orb_gold_i00
+1030331	進階型米索莉手鐲	u,裝備時，可啟用護身符欄位四格。MP最大值提升120。\0	icon.etc_rbracelet_s_i03
+1030332	粉紅色護身符-STR	u,使用時，將提升力量2點。就算裝備同樣的護身符也只發揮裝備一個的效果。無法交易或丟棄的幻象裝備。\0	icon.etc_talisman_event_i00
+1030333	粉紅色護身符-DEX	u,使用時，將提升敏捷2點。就算裝備同樣的護身符也只發揮裝備一個的效果。無法交易或丟棄的幻象裝備。\0	icon.etc_talisman_event_i00
+1030334	粉紅色護身符-CON	u,使用時，將提升體質2點。就算裝備同樣的護身符也只發揮裝備一個的效果。無法交易或丟棄的幻象裝備。\0	icon.etc_talisman_event_i00
+1030335	粉紅色護身符-INT	u,使用時，將提升智力2點。就算裝備同樣的護身符也只發揮裝備一個的效果。無法交易或丟棄的幻象裝備。\0	icon.etc_talisman_event_i00
+1030336	粉紅色護身符-WIT	u,使用時，將提升精神2點。就算裝備同樣的護身符也只發揮裝備一個的效果。無法交易或丟棄的幻象裝備。\0	icon.etc_talisman_event_i00
+1030337	粉紅色護身符-MEN	u,使用時，將提升智慧2點。就算裝備同樣的護身符也只發揮裝備一個的效果。無法交易或丟棄的幻象裝備。\0	icon.etc_talisman_event_i00
+1030338	粉紅色護身符-衝擊抗性	u,使用時，將提升衝擊抗性15。就算裝備同樣的護身符也只發揮裝備一個的效果。無法交易或丟棄的幻象裝備。\0	icon.etc_talisman_event_i00
+1030339	粉紅色護身符-睡眠抗性	u,使用時，將提升睡眠抗性15。就算裝備同樣的護身符也只發揮裝備一個的效果。無法交易或丟棄的幻象裝備。\0	icon.etc_talisman_event_i00
+1030340	粉紅色護身符-束縛抗性	u,使用時，將提升束縛抗性15。就算裝備同樣的護身符也只發揮裝備一個的效果。無法交易或丟棄的幻象裝備。\0	icon.etc_talisman_event_i00
+1030341	粉紅色護身符-麻痺抗性	u,使用時，將提升麻痺抗性15。就算裝備同樣的護身符也只發揮裝備一個的效果。無法交易或丟棄的幻象裝備。\0	icon.etc_talisman_event_i00
+1030342	粉紅色護身符-全屬性提升	u,使用時，將提升全部屬性1點。就算裝備同樣的護身符也只發揮裝備一個的效果。無法交易或丟棄的幻象裝備。\0	icon.etc_talisman_event_i00
+1030343	變身卷軸-亞納	u,在30分鐘內可將肉身變為亞納的卷軸。無法交易、丟棄或登記在個人商店，但可以保管在個人倉庫。\0	icon.etc_trans_4f_s_b_01
+1030344	變身卷軸-札肯	u,在30分鐘內可將肉身變為札肯的卷軸。無法交易或丟棄。無法交易、丟棄或登記在個人商店，但可以保管在個人倉庫。\0	icon.etc_trans_4f_s_b_01
+1030345	薄暮怪力	u,在20分鐘內增加物理攻擊力15%、魔法攻擊力20%、移動速度10。\0	icon.Item_Normal129
+1030346	薄暮致命	u,在20分鐘內增加物理致命攻擊率15、魔法致命攻擊率2、移動速度10。將施予敵人的近身物理攻擊技能的傷害5%吸取為HP。\0	icon.Item_Normal130
+1030347	薄暮不敗	u,在20分鐘內增加攻擊速度最大值20%、施法速度20%、移動速度20。\0	icon.Item_Normal131
+1030348	薄暮貴族強化石10個/組	u,內裝10個薄暮貴族強化石的壓縮包。\0	icon.etc_pi_gift_box_i04
+1030349	巨人的經典-熟練篇組	u,內裝1個巨人的經典-熟練篇的壓縮包。\0	icon.etc_pi_gift_box_i04
+1030350	友情的王朝金屬盔甲套裝組-S級(限時90日)	u,使用的話，就可得到友情的王朝金屬盔甲套裝。若不使用的話，將會在90天以後自動消失。無法交易或丟棄的道具，但可以保管在個人倉庫。\0	icon.etc_treasure_box_i07
+1030351	友情的王朝皮盔甲套裝組-S級(限時90日)	u,使用的話，就可得到友情的王朝皮盔甲套裝。若不使用的話，將會在90天以後自動消失。無法交易或丟棄的道具，但可以保管在個人倉庫。\0	icon.etc_treasure_box_i06
+1030352	友情的王朝外衣套裝組-S級(限時90日)	u,使用的話，就可得到友情的王朝外衣套裝。若不使用的話，將會在90天以後自動消失。無法交易或丟棄的道具，但可以保管在個人倉庫。\0	icon.etc_treasure_box_i01
+1030353	友情的王朝飾品組(限時90日)	u,使用的話，就可得到友情的王朝飾品組。若不使用的話，將會在90天以後自動消失。無法交易或丟棄的道具，但可以保管在個人倉庫。\0	icon.etc_treasure_box_i01
+1030354	整形藥水禮盒	u,內裝一組整形藥水。\0	icon.etc_pi_gift_box_i04
+1030355	染髮藥水禮盒	u,內裝一組染髮藥水。\0	icon.etc_pi_gift_box_i04
+1030356	造型藥水禮盒	u,內裝一組造型藥水。\0	icon.etc_pi_gift_box_i04
+1030357	武器強化結晶卷軸-A級	u,適合強化A級武器的結晶卷軸，可安全強化至+35。\0	icon.etc_scroll_of_enchant_weapon_i01
+1030358	防具強化結晶卷軸-A級	u,適合強化A級防具的結晶卷軸，可安全強化至+20。\0	icon.etc_scroll_of_enchant_armor_i01
+1030359	武器強化結晶卷軸-S級	u,適合強化S級武器的結晶卷軸，可安全強化至+35。\0	icon.etc_scroll_of_enchant_weapon_i01
+1030360	防具強化結晶卷軸-S級	u,適合強化S級防具的結晶卷軸，可安全強化至+20。\0	icon.etc_scroll_of_enchant_armor_i01
